@@ -1,3 +1,5 @@
+package LR1;
+
 import java.util.Scanner;
 
 public class Example4 {

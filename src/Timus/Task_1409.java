@@ -1,12 +1,11 @@
 package Timus;
 
 import java.util.Scanner;
-
-public class Task_1000 {
+public class Task_1409 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        System.out.println(a + b);
+        System.out.println((b-1) + " " + (a-1));
     }
 }

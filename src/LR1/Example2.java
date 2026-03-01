@@ -1,3 +1,5 @@
+package LR1;
+
 public class Example2 {
     public static void main(String[] args) {
         int num = 100;
