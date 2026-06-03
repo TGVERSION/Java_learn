@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+    <employee>
+        <name>Иванов Иван Иванович</name>
+        <position>Программист</position>
+        <department>IT</department>
+        <salary>90000</salary>
+    </employee>
+    <employee>
+        <name>Петрова Анна Сергеевна</name>
+        <position>Аналитик</position>
+        <department>Финансы</department>
+        <salary>75000</salary>
+    </employee>
+    <employee>
+        <name>Сидоров Алексей Петрович</name>
+        <position>Менеджер</position>
+        <department>HR</department>
+        <salary>80000</salary>
+    </employee>
+</employees>

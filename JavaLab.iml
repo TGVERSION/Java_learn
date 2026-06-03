@@ -7,5 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="xmlbeans-5.1.1" level="project" />
+    <orderEntry type="library" name="googlecode.json.simple" level="project" />
+    <orderEntry type="library" name="jsoup" level="project" />
+    <orderEntry type="library" name="apache.poi.ooxml" level="project" />
+    <orderEntry type="library" name="apache.logging.log4j.core" level="project" />
   </component>
 </module>

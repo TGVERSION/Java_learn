@@ -1,0 +1,59 @@
+Парсинг URL: https://jsoup.org/
+Дата: 03.06.2026 11:04:26
+Заголовок страницы: jsoup: Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety
+Ссылки:
+  1. Skip to content                          -> https://jsoup.org/#main-content
+  2. jsoup                                    -> https://jsoup.org/
+  3. News                                     -> https://jsoup.org/news/
+  4. Bugs                                     -> https://jsoup.org/bugs
+  5. Discussion                               -> https://jsoup.org/discussion
+  6. Download                                 -> https://jsoup.org/download
+  7. API Reference                            -> https://jsoup.org/apidocs/
+  8. Cookbook                                 -> https://jsoup.org/cookbook/
+  9. Try jsoup                                -> https://try.jsoup.org/
+ 10. jsoup                                    -> https://jsoup.org/
+ 11. (без текста)                             -> https://html.spec.whatwg.org/multipage/syntax.html
+ 12. WHATWG HTML5                             -> https://html.spec.whatwg.org/multipage/syntax.html
+ 13. Scrape and parse HTML                    -> https://jsoup.org/cookbook/input/parse-document-from-string
+ 14. Find and extract data                    -> https://jsoup.org/cookbook/extracting-data/selector-syntax
+ 15. Manipulate HTML elements                 -> https://jsoup.org/cookbook/modifying-data/set-html
+ 16. Clean user-submitted content             -> https://jsoup.org/cookbook/cleaning-html/safelist-sanitizer
+ 17. Output tidy HTML                         -> https://jsoup.org/apidocs/org/jsoup/nodes/Element#html()
+ 18. Wikipedia homepage                       -> https://en.wikipedia.org/wiki/Main_Page
+ 19. Elements                                 -> https://jsoup.org/apidocs/org/jsoup/select/Elements
+ 20. online sample                            -> https://try.jsoup.org/~LGB7rk_atM2roavV0d-czMt3J_g
+ 21. full source                              -> https://github.com/jhy/jsoup/blob/master/src/main/java/org/jsoup/examples/Wikipedia.java
+ 22. (без текста)                             -> https://opensource.org/osd
+ 23. MIT license                              -> https://jsoup.org/license
+ 24. GitHub                                   -> https://github.com/jhy/jsoup/
+ 25. Download                                 -> https://jsoup.org/download
+ 26. 1.22.2                                   -> https://jsoup.org/news/release-1.22.2
+ 27. cookbook introduction                    -> https://jsoup.org/cookbook/introduction/parsing-a-document
+ 28. (без текста)                             -> https://github.com/jhy/jsoup/
+ 29. discussion methods                       -> https://jsoup.org/discussion
+ 30. file a bug                               -> https://jsoup.org/bugs
+ 31. colophon                                 -> https://jsoup.org/colophon
+ 32. GitHub                                   -> https://github.com/jhy/jsoup/
+ 33. changes                                  -> https://github.com/jhy/jsoup/blob/master/CHANGES.md
+ 34. build an unreleased version              -> https://jsoup.org/download
+ 35. Jonathan Hedley                          -> https://jhedley.com
+ 36. GitHub                                   -> https://github.com/jhy/jsoup/graphs/contributors
+ 37. https://jsoup.org                        -> https://jsoup.org
+ 38. Parsing and traversing a Document        -> https://jsoup.org/cookbook/introduction/parsing-a-document
+ 39. Parse a document from a String           -> https://jsoup.org/cookbook/input/parse-document-from-string
+ 40. Parsing a body fragment                  -> https://jsoup.org/cookbook/input/parse-body-fragment
+ 41. Load a Document from a URL               -> https://jsoup.org/cookbook/input/load-document-from-url
+ 42. Load a Document from a File              -> https://jsoup.org/cookbook/input/load-document-from-file
+ 43. Parse large documents efficiently with StreamParser -> https://jsoup.org/cookbook/input/streamparser-dom-sax
+ 44. Use DOM methods to navigate a document   -> https://jsoup.org/cookbook/extracting-data/dom-navigation
+ 45. Use CSS selectors to find elements       -> https://jsoup.org/cookbook/extracting-data/selector-syntax
+ 46. Use XPath selectors to find elements and nodes -> https://jsoup.org/cookbook/extracting-data/xpath-syntax
+ 47. Extract attributes, text, and HTML from elements -> https://jsoup.org/cookbook/extracting-data/attributes-text-html
+ 48. Working with relative and absolute URLs  -> https://jsoup.org/cookbook/extracting-data/working-with-urls
+ 49. Example program: list links              -> https://jsoup.org/cookbook/extracting-data/example-list-links
+ 50. Set attribute values                     -> https://jsoup.org/cookbook/modifying-data/set-attributes
+ 51. Set the HTML of an element               -> https://jsoup.org/cookbook/modifying-data/set-html
+ 52. Setting the text content of elements     -> https://jsoup.org/cookbook/modifying-data/set-text
+ 53. Sanitize untrusted HTML (to prevent XSS) -> https://jsoup.org/cookbook/cleaning-html/safelist-sanitizer
+ 54. Maintaining a request session            -> https://jsoup.org/cookbook/web/request-session
+ 55. Jonathan Hedley                          -> https://jhedley.com
